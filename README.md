@@ -60,8 +60,8 @@ A modular, two-service architecture with:
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Krutika09/02-Containerized-Microservices.git
-cd 02-Containerized-Microservices
+git clone https://github.com/Ashutosh-9216/Containerized-Microservices.git
+cd Containerized-Microservices
 ````
 
 ### 3️⃣ Run All Services
